@@ -73,7 +73,7 @@
               on:click={() => editTodo(todo.id)}
               aria-label="edit todo"
             >
-              <i class="fa-solid fa-pen fa-xl"></i>
+              <i class="fa-solid fa-pencil fa-xl"></i>
             </button>
             <button
               class="todo-button"
