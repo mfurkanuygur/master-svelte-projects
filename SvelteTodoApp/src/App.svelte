@@ -50,8 +50,8 @@
 <style>
   main {
     font-family: "Roboto", sans-serif;
-    max-width: 500px;
-    min-width: 500px;
+    max-width: 350px;
+    min-width: 350px;
   }
   h1,
   h2,
