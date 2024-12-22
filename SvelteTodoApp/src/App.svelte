@@ -50,12 +50,18 @@
 <style>
   main {
     font-family: "Roboto", sans-serif;
-    max-width: 350px;
-    min-width: 350px;
+    max-width: 500px;
+    min-width: 500px;
   }
   h1,
   h2,
   h3 {
     text-align: center;
+  }
+  @media (max-width: 768px) {
+    main {
+      min-width: 350px;
+      max-width: 350px;
+    }
   }
 </style>
