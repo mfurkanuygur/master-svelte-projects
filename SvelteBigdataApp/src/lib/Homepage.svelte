@@ -16,7 +16,7 @@
   onMount(fetchProducts);
 
   const handleClick = () => {
-    skip += 10;
+    skip += 8;
     fetchProducts();
   };
 </script>
